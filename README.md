@@ -1,6 +1,6 @@
 # Marlin-Artillery
 <b>Marlin adapted for Artillery Genius</b> (3D printer)
-Guia de flasheo: https://3dprintbeginner.com/artillery-genius-firmware-with-marlin-2-0-1/
+<p>Guia de flasheo: https://3dprintbeginner.com/artillery-genius-firmware-with-marlin-2-0-1/</p>
 
 Release notes:
 <b>8/4/2020:</b>
