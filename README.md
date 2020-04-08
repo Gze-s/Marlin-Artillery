@@ -3,8 +3,8 @@
 <p>Guia de flasheo: https://3dprintbeginner.com/artillery-genius-firmware-with-marlin-2-0-1/</p>
 
 <p>Release notes:</p>
-<br><b>8/4/2020:</b>
-<p><br>Primera release publica, este firmware esta adaptado para la impresora 3D Artillery genius con todo su hardware original.
+<p><br><b>8/4/2020:</b>
+<br>Primera release publica, este firmware esta adaptado para la impresora 3D Artillery genius con todo su hardware original.
 <br>Recomiendo hacer PID para la cama y el hotend, los valores del firmware son los que funcionan para mi.</p>
 
 <p>Detalles:
